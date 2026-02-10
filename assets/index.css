@@ -1,0 +1,29 @@
+@import "tw-animate-css";
+@import "./styles/driver-theme.css";
+
+/* Fix for Radix UI Tabs - override Tailwind's hidden attribute rule */
+/* Radix UI sets hidden attribute on inactive tabs, but Tailwind's preflight sets display:none on [hidden] */
+/* We need to let Radix control visibility via data-state instead */
+/* Target tabpanel role elements that have hidden attribute */
+[role="tabpanel"][hidden] {
+  display: block !important;
+}
+[role="tabpanel"][data-state="inactive"] {
+  display: none !important;
+}
+[role="tabpanel"][data-state="active"] {
+  display: block !important;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * CSOAI Dashboard - Open WebUI Inspired Design System
+ * Clean, minimal, chat-centric interface
+ * Adapted from Open WebUI open-source project
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);

@@ -1,0 +1,2391 @@
+{
+  "exportDate": "2026-01-04T10:49:43.385Z",
+  "summary": {
+    "totalUsers": 237,
+    "totalSubscribers": 60,
+    "totalNotifications": 16,
+    "totalEmailLogs": 0,
+    "totalEmailQueue": 0,
+    "totalWorkflows": 1,
+    "totalTemplates": 0,
+    "totalApplications": 0
+  },
+  "users": [
+    {
+      "id": 1,
+      "email": "nicholastempleman@gmail.com",
+      "name": "Nick Templeman",
+      "createdAt": "2025-12-24 06:09:21"
+    },
+    {
+      "id": 870001,
+      "email": "testcourses@example.com",
+      "name": "Test Courses User",
+      "createdAt": "2025-12-25 07:24:29"
+    },
+    {
+      "id": 870002,
+      "email": "test3month@example.com",
+      "name": "Test 3Month User",
+      "createdAt": "2025-12-25 07:24:29"
+    },
+    {
+      "id": 870003,
+      "email": "testnoenrollments@example.com",
+      "name": "Test No Enrollments",
+      "createdAt": "2025-12-25 07:24:29"
+    },
+    {
+      "id": 870004,
+      "email": "testother@example.com",
+      "name": "Test Other User",
+      "createdAt": "2025-12-25 07:24:29"
+    },
+    {
+      "id": 900001,
+      "email": "progress-test-1766678317968@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900002,
+      "email": "progress-test-1766678318250@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900003,
+      "email": "progress-test-1766678318270@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900004,
+      "email": "progress-test-1766678318291@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900005,
+      "email": "progress-test-1766678318321@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900006,
+      "email": "progress-test-1766678318339@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900007,
+      "email": "progress-test-1766678318356@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900008,
+      "email": "progress-test-1766678318372@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900009,
+      "email": "progress-test-1766678318388@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900010,
+      "email": "progress-test-1766678318404@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900011,
+      "email": "progress-test-1766678318420@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900012,
+      "email": "progress-test-1766678318436@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:38"
+    },
+    {
+      "id": 900013,
+      "email": "progress-test-1766678336033@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900014,
+      "email": "progress-test-1766678336209@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900015,
+      "email": "progress-test-1766678336253@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900016,
+      "email": "progress-test-1766678336285@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900017,
+      "email": "progress-test-1766678336325@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900018,
+      "email": "progress-test-1766678336351@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900019,
+      "email": "progress-test-1766678336376@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900020,
+      "email": "progress-test-1766678336405@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900021,
+      "email": "progress-test-1766678336456@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900022,
+      "email": "progress-test-1766678336485@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900023,
+      "email": "progress-test-1766678336536@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 900024,
+      "email": "progress-test-1766678336571@test.com",
+      "name": "Progress Test User",
+      "createdAt": "2025-12-25 15:58:56"
+    },
+    {
+      "id": 2100002,
+      "email": "testuser@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-01 08:02:32"
+    },
+    {
+      "id": 2220004,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-01 22:09:25"
+    },
+    {
+      "id": 2220029,
+      "email": "test-lesson-1767307350231@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-01 22:42:30"
+    },
+    {
+      "id": 2220030,
+      "email": "test-forum-1767307350232@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-01 22:42:30"
+    },
+    {
+      "id": 2220048,
+      "email": "forum-test-1767313851150@example.com",
+      "name": "Test Forum User",
+      "createdAt": "2026-01-02 00:30:51"
+    },
+    {
+      "id": 2220050,
+      "email": "forum-test-1767313870474@example.com",
+      "name": "Test Forum User",
+      "createdAt": "2026-01-02 00:31:10"
+    },
+    {
+      "id": 2220051,
+      "email": "instructor-1767313870852@example.com",
+      "name": "Test Instructor",
+      "createdAt": "2026-01-02 00:31:10"
+    },
+    {
+      "id": 2220053,
+      "email": "forum-test-1767313883380@example.com",
+      "name": "Test Forum User",
+      "createdAt": "2026-01-02 00:31:23"
+    },
+    {
+      "id": 2220137,
+      "email": "test@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-02 05:29:02"
+    },
+    {
+      "id": 2220160,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-02 06:57:32"
+    },
+    {
+      "id": 2220176,
+      "email": "test-forum-1767337057021@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-02 06:57:37"
+    },
+    {
+      "id": 2220177,
+      "email": "test-lesson-1767337057472@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-02 06:57:37"
+    },
+    {
+      "id": 2220219,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-02 07:14:31"
+    },
+    {
+      "id": 2220234,
+      "email": "test-forum-1767338076269@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-02 07:14:36"
+    },
+    {
+      "id": 2220237,
+      "email": "test-lesson-1767338077160@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-02 07:14:37"
+    },
+    {
+      "id": 2220321,
+      "email": "templemanopticians@live.co.uk",
+      "name": "Wendy Templeman",
+      "createdAt": "2026-01-02 10:45:10"
+    },
+    {
+      "id": 2220323,
+      "email": "testuser123@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-02 10:54:56"
+    },
+    {
+      "id": 2220341,
+      "email": "janesmith456@example.com",
+      "name": "Jane Smith",
+      "createdAt": "2026-01-02 11:00:01"
+    },
+    {
+      "id": 2220350,
+      "email": "james.mitchell.enterprise@test.com",
+      "name": "James Mitchell - Enterprise Director",
+      "createdAt": "2026-01-02 12:12:13"
+    },
+    {
+      "id": 2220354,
+      "email": "sarah.chen.aicompany@test.com",
+      "name": "Dr. Sarah Chen - AI Company Chief Compliance Officer",
+      "createdAt": "2026-01-02 12:14:13"
+    },
+    {
+      "id": 2220356,
+      "email": "maria.rodriguez.gov@test.com",
+      "name": "Maria Rodriguez - Government Regulator",
+      "createdAt": "2026-01-02 12:15:17"
+    },
+    {
+      "id": 2220357,
+      "email": "alice@coai.test",
+      "name": "Alice Chen",
+      "createdAt": "2026-01-02 13:12:34"
+    },
+    {
+      "id": 2220358,
+      "email": "bob@coai.test",
+      "name": "Bob Williams",
+      "createdAt": "2026-01-02 13:12:34"
+    },
+    {
+      "id": 2220359,
+      "email": "carol@coai.test",
+      "name": "Carol Martinez",
+      "createdAt": "2026-01-02 13:12:34"
+    },
+    {
+      "id": 2220364,
+      "email": "admin_promo@test.com",
+      "name": "Test Admin",
+      "createdAt": "2026-01-02 15:59:31"
+    },
+    {
+      "id": 2220365,
+      "email": "admin_promo@test.com",
+      "name": "Test Admin",
+      "createdAt": "2026-01-02 16:00:01"
+    },
+    {
+      "id": 2220366,
+      "email": "user_promo@test.com",
+      "name": "Test User",
+      "createdAt": "2026-01-02 16:00:01"
+    },
+    {
+      "id": 2250013,
+      "email": "test-phase9-1767429120375@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-03 08:32:01"
+    },
+    {
+      "id": 2250014,
+      "email": "test-phase9-1767429149143@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-03 08:32:30"
+    },
+    {
+      "id": 2250018,
+      "email": "test-new-features-1767434198792@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 09:56:40"
+    },
+    {
+      "id": 2250019,
+      "email": "test-new-features-1767434223129@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 09:57:04"
+    },
+    {
+      "id": 2250020,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-03 09:57:04"
+    },
+    {
+      "id": 2250021,
+      "email": "test-new-features-1767434285861@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 09:58:07"
+    },
+    {
+      "id": 2250022,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-03 09:58:07"
+    },
+    {
+      "id": 2250023,
+      "email": "test-new-features-1767434317911@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 09:58:39"
+    },
+    {
+      "id": 2250024,
+      "email": "student1@example.com",
+      "name": "Student One",
+      "createdAt": "2026-01-03 09:58:40"
+    },
+    {
+      "id": 2250025,
+      "email": "student2@example.com",
+      "name": "Student Two",
+      "createdAt": "2026-01-03 09:58:40"
+    },
+    {
+      "id": 2250026,
+      "email": "student3@example.com",
+      "name": "Student Three",
+      "createdAt": "2026-01-03 09:58:41"
+    },
+    {
+      "id": 2250027,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-03 09:58:41"
+    },
+    {
+      "id": 2250028,
+      "email": "newstudent@example.com",
+      "name": "New Student",
+      "createdAt": "2026-01-03 09:58:42"
+    },
+    {
+      "id": 2250029,
+      "email": "integration1@example.com",
+      "name": "Integration Student 1",
+      "createdAt": "2026-01-03 09:58:44"
+    },
+    {
+      "id": 2250030,
+      "email": "integration2@example.com",
+      "name": "Integration Student 2",
+      "createdAt": "2026-01-03 09:58:45"
+    },
+    {
+      "id": 2280013,
+      "email": "workflow-test-1767446488555@example.com",
+      "name": "Test Workflow User",
+      "createdAt": "2026-01-03 13:21:29"
+    },
+    {
+      "id": 2280014,
+      "email": "workflow-test-1767446516340@example.com",
+      "name": "Test Workflow User",
+      "createdAt": "2026-01-03 13:21:57"
+    },
+    {
+      "id": 2280015,
+      "email": "workflow-test-1767446536910@example.com",
+      "name": "Test Workflow User",
+      "createdAt": "2026-01-03 13:22:18"
+    },
+    {
+      "id": 2280016,
+      "email": "workflow-test-1767446563002@example.com",
+      "name": "Test Workflow User",
+      "createdAt": "2026-01-03 13:22:44"
+    },
+    {
+      "id": 2280028,
+      "email": "testuser.prod@csoai-test.com",
+      "name": "Test User Production",
+      "createdAt": "2026-01-03 14:00:19"
+    },
+    {
+      "id": 2280057,
+      "email": "test-phase9-1767456769334@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-03 16:12:50"
+    },
+    {
+      "id": 2280063,
+      "email": "test-analytics-1767456774678@example.com",
+      "name": "Test Analytics User",
+      "createdAt": "2026-01-03 16:12:55"
+    },
+    {
+      "id": 2280066,
+      "email": "test-new-features-1767456776090@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 16:12:57"
+    },
+    {
+      "id": 2280072,
+      "email": "test-phase9-1767456790184@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-03 16:13:11"
+    },
+    {
+      "id": 2280087,
+      "email": "test-new-features-1767456805436@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 16:13:27"
+    },
+    {
+      "id": 2280088,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-03 16:13:28"
+    },
+    {
+      "id": 2280089,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-03 16:13:29"
+    },
+    {
+      "id": 2280094,
+      "email": "csoai_test_2026@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 16:13:34"
+    },
+    {
+      "id": 2280171,
+      "email": "test-phase9-1767459303737@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-03 16:55:03"
+    },
+    {
+      "id": 2280175,
+      "email": "test-new-features-1767459304432@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-03 16:55:04"
+    },
+    {
+      "id": 2280176,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-03 16:55:04"
+    },
+    {
+      "id": 2280177,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-03 16:55:05"
+    },
+    {
+      "id": 2280178,
+      "email": "test-lesson-1767459310154@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-03 16:55:10"
+    },
+    {
+      "id": 2280179,
+      "email": "test-forum-1767459313835@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-03 16:55:14"
+    },
+    {
+      "id": 2280180,
+      "email": "test-lesson-1767461003931@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-03 17:23:24"
+    },
+    {
+      "id": 2310014,
+      "email": "test-phase9-1767490686216@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 01:38:06"
+    },
+    {
+      "id": 2310023,
+      "email": "test-new-features-1767490688597@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 01:38:08"
+    },
+    {
+      "id": 2310026,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 01:38:09"
+    },
+    {
+      "id": 2310031,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 01:38:11"
+    },
+    {
+      "id": 2310040,
+      "email": "test-lesson-1767490720845@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 01:38:41"
+    },
+    {
+      "id": 2310052,
+      "email": "test-forum-1767490725302@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 01:38:45"
+    },
+    {
+      "id": 2310062,
+      "email": "admin_promo@test.com",
+      "name": "Test Admin",
+      "createdAt": "2026-01-04 03:20:28"
+    },
+    {
+      "id": 2310063,
+      "email": "test-phase9-1767496828633@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 03:20:28"
+    },
+    {
+      "id": 2310065,
+      "email": "user_promo@test.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 03:20:29"
+    },
+    {
+      "id": 2310069,
+      "email": "forum-test-1767496836481@example.com",
+      "name": "Test Forum User",
+      "createdAt": "2026-01-04 03:20:36"
+    },
+    {
+      "id": 2310070,
+      "email": "instructor-1767496836948@example.com",
+      "name": "Test Instructor",
+      "createdAt": "2026-01-04 03:20:36"
+    },
+    {
+      "id": 2310111,
+      "email": "test-phase9-1767503099600@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 05:05:00"
+    },
+    {
+      "id": 2310112,
+      "email": "admin_promo@test.com",
+      "name": "Test Admin",
+      "createdAt": "2026-01-04 05:05:00"
+    },
+    {
+      "id": 2310113,
+      "email": "user_promo@test.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 05:05:01"
+    },
+    {
+      "id": 2310116,
+      "email": "test-analytics-1767503102921@example.com",
+      "name": "Test Analytics User",
+      "createdAt": "2026-01-04 05:05:04"
+    },
+    {
+      "id": 2310152,
+      "email": "test-resolution-1767505098033@example.com",
+      "name": "Test Resolution User",
+      "createdAt": "2026-01-04 05:38:18"
+    },
+    {
+      "id": 2310158,
+      "email": "alex.thompson.analyst@example.com",
+      "name": "Alex Thompson",
+      "createdAt": "2026-01-04 05:44:16"
+    },
+    {
+      "id": 2310189,
+      "email": "test-phase9-1767512504486@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 07:41:44"
+    },
+    {
+      "id": 2310198,
+      "email": "test-new-features-1767512506637@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 07:41:46"
+    },
+    {
+      "id": 2310201,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 07:41:47"
+    },
+    {
+      "id": 2310204,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 07:41:48"
+    },
+    {
+      "id": 2310216,
+      "email": "test-lesson-1767512512473@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 07:41:52"
+    },
+    {
+      "id": 2310222,
+      "email": "test-forum-1767512516743@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 07:41:57"
+    },
+    {
+      "id": 2310229,
+      "email": "test-phase9-1767512539022@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 07:42:19"
+    },
+    {
+      "id": 2310239,
+      "email": "test-new-features-1767512540887@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 07:42:21"
+    },
+    {
+      "id": 2310242,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 07:42:21"
+    },
+    {
+      "id": 2310245,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 07:42:23"
+    },
+    {
+      "id": 2310258,
+      "email": "test-lesson-1767512547377@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 07:42:27"
+    },
+    {
+      "id": 2310265,
+      "email": "test-forum-1767512551846@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 07:42:32"
+    },
+    {
+      "id": 2310275,
+      "email": "test-phase9-1767512943793@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 07:49:04"
+    },
+    {
+      "id": 2310282,
+      "email": "test-new-features-1767512945250@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 07:49:05"
+    },
+    {
+      "id": 2310285,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 07:49:06"
+    },
+    {
+      "id": 2310290,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 07:49:07"
+    },
+    {
+      "id": 2310301,
+      "email": "test-lesson-1767512951799@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 07:49:12"
+    },
+    {
+      "id": 2310338,
+      "email": "test-phase9-1767516183022@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 08:43:03"
+    },
+    {
+      "id": 2310342,
+      "email": "test-new-features-1767516183609@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 08:43:03"
+    },
+    {
+      "id": 2310343,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 08:43:03"
+    },
+    {
+      "id": 2310344,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 08:43:04"
+    },
+    {
+      "id": 2310345,
+      "email": "test-lesson-1767516188825@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 08:43:09"
+    },
+    {
+      "id": 2310348,
+      "email": "test-forum-1767516193141@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 08:43:13"
+    },
+    {
+      "id": 2310349,
+      "email": "asdf@mailinator.com",
+      "name": "asdfasdf",
+      "createdAt": "2026-01-04 08:46:52"
+    },
+    {
+      "id": 2310388,
+      "email": "test-phase9-1767516524785@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 08:48:44"
+    },
+    {
+      "id": 2310392,
+      "email": "test-new-features-1767516525261@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 08:48:45"
+    },
+    {
+      "id": 2310393,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 08:48:45"
+    },
+    {
+      "id": 2310394,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 08:48:45"
+    },
+    {
+      "id": 2310395,
+      "email": "test-lesson-1767516530299@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 08:48:50"
+    },
+    {
+      "id": 2310398,
+      "email": "test-forum-1767516534787@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 08:48:55"
+    },
+    {
+      "id": 2310444,
+      "email": "test-phase9-1767516994782@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 08:56:34"
+    },
+    {
+      "id": 2310445,
+      "email": "test-new-features-1767516995155@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 08:56:35"
+    },
+    {
+      "id": 2310446,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 08:56:35"
+    },
+    {
+      "id": 2310447,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 08:56:36"
+    },
+    {
+      "id": 2310448,
+      "email": "test-lesson-1767517000883@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 08:56:41"
+    },
+    {
+      "id": 2310451,
+      "email": "test-forum-1767517005032@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 08:56:45"
+    },
+    {
+      "id": 2310489,
+      "email": "test-phase9-1767517317851@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:01:57"
+    },
+    {
+      "id": 2310490,
+      "email": "test-new-features-1767517318131@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:01:58"
+    },
+    {
+      "id": 2310491,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:01:58"
+    },
+    {
+      "id": 2310492,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:01:59"
+    },
+    {
+      "id": 2310493,
+      "email": "test-lesson-1767517325523@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:02:06"
+    },
+    {
+      "id": 2310496,
+      "email": "test-forum-1767517330450@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:02:10"
+    },
+    {
+      "id": 2310530,
+      "email": "test-phase9-1767517570341@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:06:10"
+    },
+    {
+      "id": 2310533,
+      "email": "test-new-features-1767517570812@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:06:10"
+    },
+    {
+      "id": 2310534,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:06:11"
+    },
+    {
+      "id": 2310535,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:06:11"
+    },
+    {
+      "id": 2310536,
+      "email": "test-lesson-1767517576713@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:06:17"
+    },
+    {
+      "id": 2310539,
+      "email": "test-forum-1767517581526@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:06:22"
+    },
+    {
+      "id": 2310572,
+      "email": "test-phase9-1767517999496@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:13:19"
+    },
+    {
+      "id": 2310576,
+      "email": "test-new-features-1767518000087@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:13:20"
+    },
+    {
+      "id": 2310577,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:13:20"
+    },
+    {
+      "id": 2310578,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:13:20"
+    },
+    {
+      "id": 2310579,
+      "email": "test-lesson-1767518005327@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:13:25"
+    },
+    {
+      "id": 2310582,
+      "email": "test-forum-1767518010019@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:13:30"
+    },
+    {
+      "id": 2310616,
+      "email": "test-phase9-1767518233196@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:17:13"
+    },
+    {
+      "id": 2310619,
+      "email": "test-new-features-1767518233736@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:17:13"
+    },
+    {
+      "id": 2310620,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:17:13"
+    },
+    {
+      "id": 2310621,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:17:14"
+    },
+    {
+      "id": 2310622,
+      "email": "test-lesson-1767518239436@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:17:19"
+    },
+    {
+      "id": 2310625,
+      "email": "test-forum-1767518244056@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:17:24"
+    },
+    {
+      "id": 2310658,
+      "email": "test-phase9-1767518697869@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:24:58"
+    },
+    {
+      "id": 2310662,
+      "email": "test-new-features-1767518698277@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:24:58"
+    },
+    {
+      "id": 2310663,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:24:58"
+    },
+    {
+      "id": 2310664,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:24:59"
+    },
+    {
+      "id": 2310665,
+      "email": "test-lesson-1767518703294@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:25:03"
+    },
+    {
+      "id": 2310668,
+      "email": "test-forum-1767518707024@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:25:07"
+    },
+    {
+      "id": 2310701,
+      "email": "test-phase9-1767518791753@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:26:31"
+    },
+    {
+      "id": 2310705,
+      "email": "test-new-features-1767518792291@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:26:32"
+    },
+    {
+      "id": 2310706,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:26:32"
+    },
+    {
+      "id": 2310707,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:26:32"
+    },
+    {
+      "id": 2310708,
+      "email": "test-lesson-1767518797124@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:26:37"
+    },
+    {
+      "id": 2310711,
+      "email": "test-forum-1767518800659@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:26:41"
+    },
+    {
+      "id": 2310745,
+      "email": "test-phase9-1767518821285@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:27:01"
+    },
+    {
+      "id": 2310748,
+      "email": "test-new-features-1767518821745@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:27:01"
+    },
+    {
+      "id": 2310749,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:27:01"
+    },
+    {
+      "id": 2310750,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:27:02"
+    },
+    {
+      "id": 2310751,
+      "email": "test-lesson-1767518826826@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:27:07"
+    },
+    {
+      "id": 2310754,
+      "email": "test-forum-1767518830262@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:27:10"
+    },
+    {
+      "id": 2310755,
+      "email": "test-forum-1767518890634@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:28:11"
+    },
+    {
+      "id": 2310788,
+      "email": "test-phase9-1767518912836@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:28:32"
+    },
+    {
+      "id": 2310792,
+      "email": "test-new-features-1767518913207@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:28:33"
+    },
+    {
+      "id": 2310793,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:28:33"
+    },
+    {
+      "id": 2310794,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:28:34"
+    },
+    {
+      "id": 2310795,
+      "email": "test-lesson-1767518917989@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:28:38"
+    },
+    {
+      "id": 2310798,
+      "email": "test-forum-1767518921856@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:28:42"
+    },
+    {
+      "id": 2310834,
+      "email": "test-phase9-1767519142486@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:32:22"
+    },
+    {
+      "id": 2310835,
+      "email": "test-new-features-1767519142922@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:32:23"
+    },
+    {
+      "id": 2310836,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:32:23"
+    },
+    {
+      "id": 2310837,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:32:23"
+    },
+    {
+      "id": 2310838,
+      "email": "test-lesson-1767519147613@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:32:28"
+    },
+    {
+      "id": 2310841,
+      "email": "test-forum-1767519151604@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:32:32"
+    },
+    {
+      "id": 2310875,
+      "email": "test-phase9-1767519372487@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:36:12"
+    },
+    {
+      "id": 2310878,
+      "email": "test-new-features-1767519372789@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:36:12"
+    },
+    {
+      "id": 2310879,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:36:12"
+    },
+    {
+      "id": 2310880,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:36:13"
+    },
+    {
+      "id": 2310881,
+      "email": "test-lesson-1767519377178@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:36:17"
+    },
+    {
+      "id": 2310884,
+      "email": "test-forum-1767519381141@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:36:21"
+    },
+    {
+      "id": 2310917,
+      "email": "test-phase9-1767519683672@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 09:41:23"
+    },
+    {
+      "id": 2310921,
+      "email": "test-new-features-1767519684176@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 09:41:24"
+    },
+    {
+      "id": 2310922,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 09:41:24"
+    },
+    {
+      "id": 2310923,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 09:41:24"
+    },
+    {
+      "id": 2310924,
+      "email": "test-lesson-1767519688748@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 09:41:29"
+    },
+    {
+      "id": 2310927,
+      "email": "test-forum-1767519692067@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 09:41:32"
+    },
+    {
+      "id": 2310967,
+      "email": "test-phase9-1767522325113@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 10:25:25"
+    },
+    {
+      "id": 2310969,
+      "email": "test-new-features-1767522325111@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 10:25:25"
+    },
+    {
+      "id": 2310972,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 10:25:25"
+    },
+    {
+      "id": 2310973,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 10:25:26"
+    },
+    {
+      "id": 2310974,
+      "email": "test-lesson-1767522330583@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 10:25:31"
+    },
+    {
+      "id": 2310977,
+      "email": "test-forum-1767522334821@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 10:25:35"
+    },
+    {
+      "id": 2311013,
+      "email": "test-phase9-1767522364763@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 10:26:04"
+    },
+    {
+      "id": 2311014,
+      "email": "test-new-features-1767522365251@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 10:26:05"
+    },
+    {
+      "id": 2311015,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 10:26:05"
+    },
+    {
+      "id": 2311016,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 10:26:05"
+    },
+    {
+      "id": 2311017,
+      "email": "test-lesson-1767522370524@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 10:26:11"
+    },
+    {
+      "id": 2311020,
+      "email": "test-forum-1767522375686@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 10:26:16"
+    },
+    {
+      "id": 2311053,
+      "email": "test-phase9-1767522499380@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 10:28:19"
+    },
+    {
+      "id": 2311057,
+      "email": "test-new-features-1767522500188@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 10:28:20"
+    },
+    {
+      "id": 2311058,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 10:28:20"
+    },
+    {
+      "id": 2311059,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 10:28:20"
+    },
+    {
+      "id": 2311060,
+      "email": "test-lesson-1767522504423@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 10:28:24"
+    },
+    {
+      "id": 2311063,
+      "email": "test-forum-1767522508490@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 10:28:28"
+    },
+    {
+      "id": 2311094,
+      "email": "forumtest1@example.com",
+      "name": "ForumUser1",
+      "createdAt": "2026-01-04 10:31:01"
+    },
+    {
+      "id": 2311095,
+      "email": "forumtest2@example.com",
+      "name": "ForumUser2",
+      "createdAt": "2026-01-04 10:31:01"
+    },
+    {
+      "id": 2311097,
+      "email": "test-phase9-1767522662302@example.com",
+      "name": "Phase 9 Test User",
+      "createdAt": "2026-01-04 10:31:02"
+    },
+    {
+      "id": 2311100,
+      "email": "test-new-features-1767522662832@example.com",
+      "name": "Test User",
+      "createdAt": "2026-01-04 10:31:02"
+    },
+    {
+      "id": 2311101,
+      "email": "existing@example.com",
+      "name": "Existing User",
+      "createdAt": "2026-01-04 10:31:03"
+    },
+    {
+      "id": 2311102,
+      "email": "digest-test@example.com",
+      "name": "Digest Test User",
+      "createdAt": "2026-01-04 10:31:03"
+    },
+    {
+      "id": 2311103,
+      "email": "test-lesson-1767522668518@example.com",
+      "name": "Test User Lesson",
+      "createdAt": "2026-01-04 10:31:09"
+    },
+    {
+      "id": 2311106,
+      "email": "test-forum-1767522672745@example.com",
+      "name": "Test User Forum",
+      "createdAt": "2026-01-04 10:31:13"
+    }
+  ],
+  "newsletterSubscribers": [
+    {
+      "id": 1,
+      "email": "test-1767512516744@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:41:57",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:41:57",
+      "updated_at": "2026-01-04 07:42:07"
+    },
+    {
+      "id": 2,
+      "email": "multi-1767512521995@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:42:02",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:42:02",
+      "updated_at": "2026-01-04 07:42:02"
+    },
+    {
+      "id": 3,
+      "email": "unsub-1767512526766@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:42:07",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:42:06",
+      "updated_at": "2026-01-04 07:42:06"
+    },
+    {
+      "id": 4,
+      "email": "test-1767512552496@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:42:33",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:42:32",
+      "updated_at": "2026-01-04 07:42:43"
+    },
+    {
+      "id": 5,
+      "email": "multi-1767512557735@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:42:38",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:42:37",
+      "updated_at": "2026-01-04 07:42:37"
+    },
+    {
+      "id": 6,
+      "email": "unsub-1767512562971@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 07:42:43",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 07:42:43",
+      "updated_at": "2026-01-04 07:42:43"
+    },
+    {
+      "id": 7,
+      "email": "test-1767516193788@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:43:14",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:43:13",
+      "updated_at": "2026-01-04 08:43:24"
+    },
+    {
+      "id": 8,
+      "email": "multi-1767516198839@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:43:19",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:43:18",
+      "updated_at": "2026-01-04 08:43:18"
+    },
+    {
+      "id": 9,
+      "email": "unsub-1767516203874@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:43:24",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:43:23",
+      "updated_at": "2026-01-04 08:43:23"
+    },
+    {
+      "id": 10,
+      "email": "test-1767516535393@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:48:56",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:48:55",
+      "updated_at": "2026-01-04 08:48:59"
+    },
+    {
+      "id": 11,
+      "email": "multi-1767516537381@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:48:57",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:48:57",
+      "updated_at": "2026-01-04 08:48:57"
+    },
+    {
+      "id": 12,
+      "email": "unsub-1767516538661@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 08:48:59",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:48:58",
+      "updated_at": "2026-01-04 08:49:00"
+    },
+    {
+      "id": 13,
+      "email": "test-1767517005185@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:56:45",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:56:45",
+      "updated_at": "2026-01-04 08:56:55"
+    },
+    {
+      "id": 14,
+      "email": "multi-1767517010231@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:56:50",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:56:50",
+      "updated_at": "2026-01-04 08:56:50"
+    },
+    {
+      "id": 15,
+      "email": "unsub-1767517015285@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 08:56:55",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 08:56:55",
+      "updated_at": "2026-01-04 08:56:55"
+    },
+    {
+      "id": 16,
+      "email": "test-1767517330108@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:02:10",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:02:10",
+      "updated_at": "2026-01-04 09:02:20"
+    },
+    {
+      "id": 17,
+      "email": "multi-1767517335166@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:02:15",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:02:15",
+      "updated_at": "2026-01-04 09:02:15"
+    },
+    {
+      "id": 18,
+      "email": "unsub-1767517340207@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:02:20",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:02:20",
+      "updated_at": "2026-01-04 09:02:20"
+    },
+    {
+      "id": 19,
+      "email": "test-1767517581581@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:06:22",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:06:21",
+      "updated_at": "2026-01-04 09:06:32"
+    },
+    {
+      "id": 20,
+      "email": "multi-1767517586635@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:06:27",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:06:26",
+      "updated_at": "2026-01-04 09:06:26"
+    },
+    {
+      "id": 21,
+      "email": "unsub-1767517591666@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:06:32",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:06:31",
+      "updated_at": "2026-01-04 09:06:31"
+    },
+    {
+      "id": 22,
+      "email": "test-1767518010471@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:13:31",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:13:30",
+      "updated_at": "2026-01-04 09:13:41"
+    },
+    {
+      "id": 23,
+      "email": "multi-1767518015530@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:13:36",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:13:35",
+      "updated_at": "2026-01-04 09:13:35"
+    },
+    {
+      "id": 24,
+      "email": "unsub-1767518020566@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:13:41",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:13:40",
+      "updated_at": "2026-01-04 09:13:40"
+    },
+    {
+      "id": 25,
+      "email": "test-1767518243455@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:17:24",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:17:23",
+      "updated_at": "2026-01-04 09:17:34"
+    },
+    {
+      "id": 26,
+      "email": "multi-1767518248510@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:17:29",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:17:28",
+      "updated_at": "2026-01-04 09:17:28"
+    },
+    {
+      "id": 27,
+      "email": "unsub-1767518253549@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:17:34",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:17:33",
+      "updated_at": "2026-01-04 09:17:33"
+    },
+    {
+      "id": 28,
+      "email": "test-1767518706677@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:25:07",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:25:06",
+      "updated_at": "2026-01-04 09:25:10"
+    },
+    {
+      "id": 29,
+      "email": "multi-1767518708692@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:25:09",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:25:08",
+      "updated_at": "2026-01-04 09:25:08"
+    },
+    {
+      "id": 30,
+      "email": "unsub-1767518710015@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 09:25:10",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:25:10",
+      "updated_at": "2026-01-04 09:25:11"
+    },
+    {
+      "id": 31,
+      "email": "test-1767518800682@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:26:41",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:26:40",
+      "updated_at": "2026-01-04 09:26:44"
+    },
+    {
+      "id": 32,
+      "email": "multi-1767518802436@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:26:42",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:26:42",
+      "updated_at": "2026-01-04 09:26:42"
+    },
+    {
+      "id": 33,
+      "email": "unsub-1767518803701@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 09:26:44",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:26:43",
+      "updated_at": "2026-01-04 09:26:46"
+    },
+    {
+      "id": 34,
+      "email": "test-1767518830115@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:27:10",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:27:10",
+      "updated_at": "2026-01-04 09:27:14"
+    },
+    {
+      "id": 35,
+      "email": "multi-1767518832234@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:27:12",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:27:12",
+      "updated_at": "2026-01-04 09:27:12"
+    },
+    {
+      "id": 36,
+      "email": "unsub-1767518833816@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 09:27:14",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:27:13",
+      "updated_at": "2026-01-04 09:27:15"
+    },
+    {
+      "id": 37,
+      "email": "test-1767518922706@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:28:43",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:28:42",
+      "updated_at": "2026-01-04 09:28:53"
+    },
+    {
+      "id": 38,
+      "email": "multi-1767518927756@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:28:48",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:28:47",
+      "updated_at": "2026-01-04 09:28:47"
+    },
+    {
+      "id": 39,
+      "email": "unsub-1767518932787@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:28:53",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:28:52",
+      "updated_at": "2026-01-04 09:28:52"
+    },
+    {
+      "id": 40,
+      "email": "test-1767519151655@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:32:32",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:32:31",
+      "updated_at": "2026-01-04 09:32:42"
+    },
+    {
+      "id": 41,
+      "email": "multi-1767519156703@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:32:37",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:32:36",
+      "updated_at": "2026-01-04 09:32:36"
+    },
+    {
+      "id": 42,
+      "email": "unsub-1767519161732@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:32:42",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:32:41",
+      "updated_at": "2026-01-04 09:32:41"
+    },
+    {
+      "id": 43,
+      "email": "test-1767519381839@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:36:22",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:36:21",
+      "updated_at": "2026-01-04 09:36:32"
+    },
+    {
+      "id": 44,
+      "email": "multi-1767519386885@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:36:27",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:36:26",
+      "updated_at": "2026-01-04 09:36:26"
+    },
+    {
+      "id": 45,
+      "email": "unsub-1767519391918@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:36:32",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:36:31",
+      "updated_at": "2026-01-04 09:36:31"
+    },
+    {
+      "id": 46,
+      "email": "test-1767519691866@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:41:32",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:41:31",
+      "updated_at": "2026-01-04 09:41:35"
+    },
+    {
+      "id": 47,
+      "email": "multi-1767519693945@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 09:41:34",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:41:33",
+      "updated_at": "2026-01-04 09:41:33"
+    },
+    {
+      "id": 48,
+      "email": "unsub-1767519695401@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 09:41:35",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 09:41:35",
+      "updated_at": "2026-01-04 09:41:37"
+    },
+    {
+      "id": 49,
+      "email": "test-1767522335504@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:25:36",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:25:35",
+      "updated_at": "2026-01-04 10:25:46"
+    },
+    {
+      "id": 50,
+      "email": "multi-1767522340552@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:25:41",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:25:40",
+      "updated_at": "2026-01-04 10:25:40"
+    },
+    {
+      "id": 51,
+      "email": "unsub-1767522345587@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:25:46",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:25:45",
+      "updated_at": "2026-01-04 10:25:45"
+    },
+    {
+      "id": 52,
+      "email": "test-1767522375405@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:26:16",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:26:15",
+      "updated_at": "2026-01-04 10:26:22"
+    },
+    {
+      "id": 53,
+      "email": "multi-1767522380453@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:26:20",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:26:20",
+      "updated_at": "2026-01-04 10:26:20"
+    },
+    {
+      "id": 54,
+      "email": "unsub-1767522382004@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "unsubscribed",
+      "confirmed_at": "2026-01-04 10:26:22",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:26:22",
+      "updated_at": "2026-01-04 10:26:23"
+    },
+    {
+      "id": 55,
+      "email": "test-1767522509363@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:28:29",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:28:29",
+      "updated_at": "2026-01-04 10:28:39"
+    },
+    {
+      "id": 56,
+      "email": "multi-1767522514457@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:28:34",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:28:34",
+      "updated_at": "2026-01-04 10:28:34"
+    },
+    {
+      "id": 57,
+      "email": "unsub-1767522519493@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:28:40",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:28:39",
+      "updated_at": "2026-01-04 10:28:39"
+    },
+    {
+      "id": 58,
+      "email": "test-1767522672931@example.com",
+      "name": "Test User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:31:13",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:31:13",
+      "updated_at": "2026-01-04 10:31:23"
+    },
+    {
+      "id": 59,
+      "email": "multi-1767522677979@example.com",
+      "name": "Multi Category User",
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:31:18",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:31:17",
+      "updated_at": "2026-01-04 10:31:17"
+    },
+    {
+      "id": 60,
+      "email": "unsub-1767522683011@example.com",
+      "name": null,
+      "company": null,
+      "source": null,
+      "status": "active",
+      "confirmed_at": "2026-01-04 10:31:23",
+      "unsubscribed_at": null,
+      "created_at": "2026-01-04 10:31:23",
+      "updated_at": "2026-01-04 10:31:23"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 4,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification sent via email",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-26 22:15:34",
+      "metadata": null,
+      "createdAt": "2025-12-26 05:57:37"
+    },
+    {
+      "id": 30001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-26 22:17:59",
+      "metadata": null,
+      "createdAt": "2025-12-27 03:15:33"
+    },
+    {
+      "id": 30002,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-26 22:18:39",
+      "metadata": null,
+      "createdAt": "2025-12-27 03:17:59"
+    },
+    {
+      "id": 30003,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-26 22:19:15",
+      "metadata": null,
+      "createdAt": "2025-12-27 03:18:39"
+    },
+    {
+      "id": 30004,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-26 23:27:15",
+      "metadata": null,
+      "createdAt": "2025-12-27 03:19:15"
+    },
+    {
+      "id": 60001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 03:10:51",
+      "metadata": null,
+      "createdAt": "2025-12-27 04:27:15"
+    },
+    {
+      "id": 90001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 04:38:58",
+      "metadata": null,
+      "createdAt": "2025-12-27 08:10:50"
+    },
+    {
+      "id": 120001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 05:07:13",
+      "metadata": null,
+      "createdAt": "2025-12-27 09:38:57"
+    },
+    {
+      "id": 150001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 05:08:28",
+      "metadata": null,
+      "createdAt": "2025-12-27 10:07:12"
+    },
+    {
+      "id": 150002,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 07:16:12",
+      "metadata": null,
+      "createdAt": "2025-12-27 10:08:28"
+    },
+    {
+      "id": 180001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-27 08:52:43",
+      "metadata": null,
+      "createdAt": "2025-12-27 12:16:12"
+    },
+    {
+      "id": 210001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-28 01:13:09",
+      "metadata": null,
+      "createdAt": "2025-12-27 13:52:42"
+    },
+    {
+      "id": 240001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-28 02:30:30",
+      "metadata": null,
+      "createdAt": "2025-12-28 06:13:08"
+    },
+    {
+      "id": 270001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-31 06:25:02",
+      "metadata": null,
+      "createdAt": "2025-12-28 07:30:29"
+    },
+    {
+      "id": 300001,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 1,
+      "readAt": "2025-12-31 06:28:53",
+      "metadata": null,
+      "createdAt": "2025-12-31 06:25:01"
+    },
+    {
+      "id": 300002,
+      "userId": 1,
+      "type": "system_update",
+      "title": "Test Notification",
+      "message": "This is a test notification",
+      "link": null,
+      "priority": "low",
+      "isRead": 0,
+      "readAt": null,
+      "metadata": null,
+      "createdAt": "2025-12-31 06:28:53"
+    }
+  ],
+  "emailLogs": [],
+  "emailQueue": [],
+  "emailWorkflows": [
+    {
+      "id": 30102,
+      "userId": 1,
+      "name": "Toggle Test",
+      "description": null,
+      "triggerType": "manual",
+      "triggerConfig": null,
+      "workflowData": {
+        "edges": [],
+        "nodes": []
+      },
+      "isActive": 0,
+      "createdAt": "2026-01-04 10:31:12",
+      "updatedAt": "2026-01-04 10:31:12",
+      "schedule": null
+    }
+  ],
+  "emailTemplates": [],
+  "applications": []
+}

@@ -1,0 +1,151 @@
+================================================================================
+CSGA PLATFORM SOURCE CODE ORGANIZATION
+================================================================================
+
+Organization Completed: February 9, 2026
+
+SUMMARY
+-------
+- Source Directory: /sessions/exciting-optimistic-tesla/csoai_source/
+- Target Directory: /sessions/exciting-optimistic-tesla/mnt/com~apple~CloudDocs/CSGA_Platform_Source/
+- Original Files: 655 (flat structure)
+- Organized Files: 539
+- Total Size: 490MB
+- Method: Copy (original files preserved in source)
+
+FOLDER STRUCTURE
+----------------
+CSGA_Platform_Source/
+├── README.md (project overview)
+├── ORGANIZATION_NOTES.txt (this file)
+├── docs/ (99 files)
+│   └── All markdown documentation files (.md)
+│
+├── components/ (213 files)
+│   ├── core/ (8 files) - App.tsx, main.tsx, Header, Footer, DashboardLayout, etc.
+│   ├── pages/ (20 files) - Home, Landing, About, Contact, Blog, News, etc.
+│   ├── auth/ (7 files) - Login, Signup, AuthContext, Email verification
+│   ├── training/ (18 files) - Courses, CoursePlayer, QuizComponent, Progress tracking
+│   ├── certification/ (17 files) - Exams, Certificates, Badge/QR code, Verification
+│   ├── casa/ (7 files) - CASA certification specific components
+│   ├── council/ (26 files) - Byzantine Consensus, Council voting, Dashboards
+│   ├── compliance/ (4 files) - Compliance rules engine, Scorecard, Roadmap
+│   ├── watchdog/ (13 files) - Incident reporting, AI safety monitoring
+│   ├── governance/ (11 files) - PDCA cycles, Risk assessment, Charter documents
+│   ├── ai-systems/ (1 file) - AISystems component
+│   ├── tools/ (6 files) - Reports, Analytics, API key management, Dashboard
+│   ├── payments/ (7 files) - Checkout, Promo codes, Payment handling
+│   ├── notifications/ (6 files) - Notification center, Email preferences
+│   ├── community/ (7 files) - Community features, Ratings, Feedback
+│   ├── ui/ (9 files) - General UI utilities, Cookies, Particles, Alerts
+│   └── legal/ (empty - for future CookiePolicy and legal components)
+│
+├── data/ (32 files)
+│   ├── modules/ (29 files) - Training modules for compliance frameworks
+│   │   └── eu-ai-act, uk-ai-safety, canada-aida, china-tc260, australia-ai-ethics
+│   └── courses/ (3 files) - Course definitions and population scripts
+│
+├── api/ (34 files)
+│   ├── routes/ (1 file) - API route definitions
+│   ├── services/ (17 files) - Certificate, exam, course, progress services
+│   └── schema/ (16 files) - Data schemas for API operations
+│
+├── config/ (21 files)
+│   └── Configuration files (.json, .yml, .mjs, .sh)
+│
+├── tests/ (68 files)
+│   └── Cypress E2E tests (.spec.ts files) and Jest unit tests (.test.ts files)
+│
+├── assets/ (114 files)
+│   └── Images (.png, .jpg), Styles (.css), Documents (.html, .pdf, .csv)
+│
+└── scripts/ (3 files)
+    └── Utility scripts (.py files)
+
+
+KEY COMPONENTS BY CATEGORY
+--------------------------
+
+TRAINING & LEARNING
+  - Courses.tsx, CourseDetail.tsx, CoursePlayer.tsx
+  - Quiz.tsx, ModuleCard.tsx, ModuleProgressIndicator.tsx
+  - Training.tsx, MyCourses.tsx, MyCoursesNew.tsx, MyTrainingCourses.tsx
+  - ProgressDashboard.tsx
+
+CERTIFICATION & CREDENTIALS
+  - Certification.tsx, CertificationExam.tsx, FinalExam.tsx
+  - Certificates.tsx, MyCertificates.tsx, CertificateGallery.tsx
+  - VerifyCertificate.tsx, PublicCertificateVerify.tsx
+  - CertificateQRCode.tsx, CertificateShare.tsx
+  - BadgePreview.tsx, CertificateRenewal.tsx
+
+COUNCIL & GOVERNANCE
+  - Council.tsx, AgentCouncil.tsx, CouncilLeaderboard.tsx
+  - ByzantineConsensus.tsx, ByzantineCouncilVisualization.tsx
+  - CouncilVotingAnalytics.tsx, RealtimeByzantineVoting.tsx
+  - CouncilApplicationForm.tsx, JoinCouncilCTA.tsx
+
+WATCHDOG & COMPLIANCE
+  - Watchdog.tsx, WatchdogEducation.tsx, WatchdogHowItWorks.tsx
+  - IncidentReportForm.tsx, AdminIncidents.tsx
+  - Compliance.tsx, ComplianceRulesEngine.tsx, ComplianceScorecard.tsx
+
+CASA CERTIFICATION
+  - CASACertification.tsx, CASAProgressDashboard.tsx
+  - CEASAIPricing.tsx, CEASAProfessional.tsx
+
+AUTHENTICATION
+  - Login.tsx, Signup.tsx, SignupCASA.tsx
+  - VerifyEmail.tsx, AuthContext.tsx
+
+API & BACKEND
+  - Certificate services, Exam attempt tracking
+  - Course progress and lesson tracking
+  - Module ratings, Quiz management
+  - Email notification services
+
+DATA MODULES
+  - EU AI Act compliance training
+  - UK AI Safety Institute framework
+  - Canada AIDA regulations
+  - China TC260 standards
+  - Australia AI Ethics guidelines
+
+
+IMPORTANT NOTES
+---------------
+1. All files have been COPIED (not moved) from the original flat directory
+   The original source directory remains intact at /sessions/exciting-optimistic-tesla/csoai_source/
+
+2. Some files may not have been organized if they:
+   - Matched multiple patterns
+   - Had unusual naming conventions
+   - Were not explicitly specified in the organization plan
+
+3. The legal/ folder is created but empty (no CookiePolicy.tsx was found separately)
+   If you have additional legal documents, they can be placed there
+
+4. Component subdirectories can be further nested if needed as the project grows
+
+5. Consider adding:
+   - .gitignore in root
+   - package.json with dependencies
+   - tsconfig.json for TypeScript configuration
+   - Vite configuration files
+   - Environment example files (.env.example)
+
+
+FILE TYPE DISTRIBUTION
+----------------------
+- React Components (.tsx): ~180 files
+- TypeScript (.ts): ~130 files
+- Documentation (.md): 99 files
+- Styles/Assets (.css, .png, .jpg, etc.): 114 files
+- Tests (.spec.ts, .test.ts): 68 files
+- Configuration files: 21 files
+- Python scripts: 3 files
+
+TOTAL ORGANIZED: 539 files (116 files not yet categorized)
+DIRECTORY SIZE: 490MB
+
+================================================================================
