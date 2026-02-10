@@ -40,7 +40,7 @@ const MOCK_API_KEYS: ApiKey[] = [
   {
     id: 'key_1',
     name: 'Production API Key',
-    key: 'csoai_live_sk_abc123def456ghi789jkl012mno345pqr678',
+    key: 'csoai_live_sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     createdAt: '2025-12-01',
     lastUsed: '2026-01-07',
     expiresAt: '2026-12-01',
@@ -51,7 +51,7 @@ const MOCK_API_KEYS: ApiKey[] = [
   {
     id: 'key_2',
     name: 'Development API Key',
-    key: 'csoai_test_sk_xyz789abc123def456ghi012jkl345mno678',
+    key: 'csoai_test_sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     createdAt: '2025-11-15',
     lastUsed: '2026-01-06',
     expiresAt: null,
@@ -62,7 +62,7 @@ const MOCK_API_KEYS: ApiKey[] = [
   {
     id: 'key_3',
     name: 'Legacy Integration',
-    key: 'csoai_live_sk_old123legacy456key789expired012abc345',
+    key: 'csoai_live_sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     createdAt: '2025-06-01',
     lastUsed: '2025-10-15',
     expiresAt: '2025-12-01',
