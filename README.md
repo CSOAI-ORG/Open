@@ -1,110 +1,78 @@
-# CSOAI v2 - Open-Source AI Safety Training Platform
+# Open
 
-The open-source FAA for AI. Free AI safety training, certification, and governance for everyone.
+[![MEOK AI Labs](https://img.shields.io/badge/MEOK-AI%20Labs-667eea)](https://meok.ai)
+[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Compliant-22c55e)](https://councilof.ai)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PyPI](https://img.shields.io/badge/PyPI-Install-3775a9)](https://pypi.org/project/open/)
 
-**100% Free | No Login Required | No Barriers to Entry**
+> CSOAI
 
-## What Is This?
-
-CSOAI provides 7 comprehensive AI safety framework courses covering every major global AI regulation. Anyone can learn AI compliance and safety at no cost.
-
-### Available Courses
-
-| Course | Framework | Modules | Questions |
-|--------|-----------|---------|-----------|
-| EU AI Act Fundamentals | EU AI Act | 7 | 70 |
-| NIST AI RMF Fundamentals | NIST AI RMF | 7 | 70 |
-| UK AI Safety Institute Framework | UK AI Safety | 7 | 70 |
-| Canada AIDA Compliance | Canada AIDA | 7 | 70 |
-| Australia AI Ethics Framework | Australia AI Ethics | 7 | 70 |
-| ISO/IEC 42001 International Standard | ISO 42001 | 7 | 70 |
-| China TC260 AI Framework | China TC260 | 7 | 70 |
-
-**Total: 49 modules, 490 quiz questions, 7 global frameworks**
-
-## Embeddable Widget
-
-Drop the training platform into any website with one line of HTML:
-
-```html
-<iframe
-  src="https://your-deployment-url/widget"
-  width="100%"
-  height="800"
-  frameborder="0"
-  style="border: none; border-radius: 12px;"
-  title="AI Safety Training Courses"
-></iframe>
-```
-
-The widget is white-label (no branding), tracks progress in the user's browser via localStorage, and requires zero backend configuration on the host site.
-
-## Technology Stack
-
-- React 19 + TypeScript 5.9
-- Vite 7 for build tooling
-- TailwindCSS + Radix UI for styling
-- tRPC + Drizzle ORM for type-safe API
-- Express backend
-- Playwright for E2E testing
-- Vitest for unit testing
-
-## Getting Started
-
-```bash
-# Install dependencies
-pnpm install
-
-# Set up environment variables
-cp .env.example .env
-# Edit .env with your values
-
-# Run development server
-pnpm dev
-
-# Build for production
-pnpm build
-```
-
-## Project Structure
-
-```
-components/        React UI components organized by feature
-  training/        Course catalog, player, quiz components
-  widget/          Embeddable white-label widget components
-  certification/   Exam and certificate components
-  core/            App shell, header, footer, layout
-data/
-  modules/         49 quiz module files (10 questions each)
-  quizzes/         Quiz data loader
-  courses/         Course population scripts
-api/               Backend services, routes, schemas
-config/            Configuration files
-tests/             E2E and unit test specs
-```
-
-## Key Routes
-
-| Route | Description |
-|-------|-------------|
-| `/widget` | Embeddable course catalog (no auth, white-label) |
-| `/widget/course/:id` | Embeddable course player |
-| `/courses` | Full course catalog |
-| `/courses/:id/learn` | Course player with quiz |
-
-## Contributing
-
-This is an open-source project. Contributions are welcome.
-
-## License
-
-Open Source - Free for everyone.
-
-## Links
-
-- Website: [csoai.org](https://csoai.org)
-- Charter & White Papers: Available on the platform
+CSOAI
 
 ---
 
-*The open-source FAA for AI - because AI safety education should be accessible to all.*
+## 🚀 Quick Start
+
+```bash
+# Install via pip
+pip install open
+
+# Or install via Smithery
+npx -y @smithery/cli@latest install Open --client claude
+```
+
+## ✨ Features
+
+- MCP protocol compliant
+- Easy installation
+- Well-documented API
+- Production-ready
+- Active maintenance
+
+## 📖 Documentation
+
+- [Full Documentation](https://docs.meok.ai/Open)
+- [API Reference](https://api.meok.ai)
+- [EU AI Act Compliance Guide](https://councilof.ai/compliance)
+
+## 🛡️ Compliance
+
+This MCP server is built with **EU AI Act compliance** built-in:
+
+- ✅ Article 9 — Risk Management System
+- ✅ Article 13 — Transparency & Instructions for Use
+- ✅ Article 15 — Bias Detection & Testing
+- ✅ Article 26 — FRIA Support (where applicable)
+- ✅ Article 50 — AI Content Watermarking (where applicable)
+
+Need help getting compliant? **[Book a free 15-min diagnostic →](https://cal.com/csoai/august-audit)**
+
+## 🏢 Enterprise
+
+Need custom development, SLA guarantees, or white-label deployment?
+
+- **Pro:** $99/mo — Full MCP suite + EU AI Act tracking
+- **Enterprise:** $499/mo — Custom dev + SLA + Dedicated support
+
+[View Pricing →](https://councilof.ai/pricing) | [Contact Sales →](mailto:sales@csoai.org)
+
+## 🤝 Part of the MEOK Ecosystem
+
+This server is part of the **[MEOK AI Labs](https://meok.ai)** ecosystem — 300+ MCP servers for sovereign AI governance.
+
+| Domain | Purpose |
+|--------|---------|
+| [councilof.ai](https://councilof.ai) | EU AI Act compliance marketplace |
+| [safetyof.ai](https://safetyof.ai) | AI safety & monitoring |
+| [meok.ai](https://meok.ai) | Sovereign AI platform |
+| [cobolbridge.ai](https://cobolbridge.ai) | Legacy modernization |
+
+## 📜 License
+
+MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
+
+---
+
+<p align="center">
+  <sub>Built with 💜 by <a href="https://meok.ai">MEOK AI Labs</a> · UK Companies House 16939677</sub>
+</p>
