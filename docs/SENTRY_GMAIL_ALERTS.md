@@ -45,7 +45,7 @@ Each error sent to Sentry includes:
 - Filter: `tags.error_priority:critical`
 
 **Actions:**
-- Send email to: [your-email@gmail.com]
+- Send email to: [[address removed]]
 - Frequency: Every time
 
 **Trigger:** Immediately
@@ -59,7 +59,7 @@ Each error sent to Sentry includes:
 - Filter: `tags.error_priority:high`
 
 **Actions:**
-- Send email to: [your-email@gmail.com]
+- Send email to: [[address removed]]
 - Frequency: Once per hour
 
 ### Step 5: Configure Email Settings
