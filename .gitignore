@@ -37,3 +37,6 @@ playwright-report/
 # Temp files
 *.tmp
 *.bak
+
+# Raw connector/mail tool output must never be committed
+config/mcp_result_*.json

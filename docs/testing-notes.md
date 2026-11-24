@@ -122,7 +122,7 @@
 ### Authentication Testing
 - [x] Login page loads correctly
 - [x] Signup page loads correctly with password validation
-- [x] User is logged in as "nicholastempleman@gmail.com" (Admin User)
+- [x] User is logged in as "admin@example.com" (Admin User)
 - [ ] Signup flow seems to hang on "Creating Account..." - needs investigation
 
 ### Dashboard Features Tested
